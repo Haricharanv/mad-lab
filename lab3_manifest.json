@@ -1,0 +1,8 @@
+{
+  "name": "Lab 3 PWA",
+  "short_name": "Lab3",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}

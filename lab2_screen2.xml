@@ -1,0 +1,3 @@
+<TextView android:id="@+id/header2" android:text="Activity - Second Screen" />
+<EditText android:id="@+id/progressBar" android:inputType="textMultiLine" android:text="Show Message" />
+<TextView android:id="@+id/textView2" android:text="Message from First Activity" />

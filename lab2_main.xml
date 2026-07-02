@@ -1,0 +1,4 @@
+<TextView android:id="@+id/header" android:text="Navigation from One Activity to Another Activity" />
+<TextView android:id="@+id/header" android:text="Enter the Message" />
+<EditText android:id="@+id/sendmessage" android:inputType="textMultiLine" />
+<Button android:id="@+id/button" android:text="Submit" />
